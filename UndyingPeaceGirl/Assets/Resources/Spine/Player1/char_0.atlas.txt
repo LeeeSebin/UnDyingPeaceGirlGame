@@ -1,0 +1,99 @@
+char_0.png
+size:1005,1037
+filter:Linear,Linear
+pma:true
+귀
+bounds:735,37,50,69
+offsets:1,1,52,71
+rotate:90
+깨무는 얼굴 1
+bounds:238,842,193,234
+offsets:1,1,195,236
+rotate:90
+깨무는 얼굴 2
+bounds:474,707,193,221
+offsets:1,1,195,223
+rotate:90
+꽁지머리
+bounds:934,687,103,67
+offsets:1,1,105,69
+rotate:90
+누운 몸
+bounds:2,21,211,162
+offsets:1,1,213,164
+누운 오른손
+bounds:911,936,99,69
+offsets:1,1,101,71
+rotate:90
+누운 오른팔
+bounds:920,792,83,142
+offsets:1,1,85,144
+누운 왼 뒷팔
+bounds:215,4,147,149
+offsets:1,1,149,151
+누운 왼 앞팔
+bounds:624,211,182,76
+offsets:1,1,184,78
+눈
+bounds:427,793,37,47
+offsets:1,1,39,49
+눈 뜬 얼굴
+bounds:697,707,193,221
+offsets:1,1,195,223
+rotate:90
+는 감은 얼굴
+bounds:659,367,193,221
+offsets:1,1,195,223
+뒷머리
+bounds:2,185,203,188
+offsets:1,1,205,190
+rotate:90
+목
+bounds:364,18,71,58
+offsets:1,1,73,60
+몸통
+bounds:238,592,187,248
+아래머리
+bounds:218,155,282,150
+offsets:1,1,284,152
+rotate:90
+앞머리
+bounds:480,195,242,142
+offsets:1,1,244,144
+rotate:90
+오른 앞팔
+bounds:788,593,144,112
+offsets:1,1,146,114
+오른다리
+bounds:218,439,148,439
+rotate:90
+오른다리 이동
+bounds:474,902,133,435
+rotate:90
+오른뒷팔
+bounds:480,2,97,191
+offsets:1,1,99,193
+오른뒷팔 손핀
+bounds:854,210,146,381
+오른뒷팔 잡은
+bounds:624,89,119,358
+rotate:90
+오른뒷팔 쭉핀
+bounds:370,78,108,359
+왼다리
+bounds:2,589,234,446
+왼팔
+bounds:2,390,214,197
+offsets:1,1,216,199
+쭉핀 왼팔
+bounds:427,590,115,359
+rotate:90
+체인
+bounds:624,289,185,76
+핀
+bounds:934,616,69,63
+offsets:1,1,71,65
+rotate:90
+흰자
+bounds:579,11,154,76
+offsets:1,1,156,78

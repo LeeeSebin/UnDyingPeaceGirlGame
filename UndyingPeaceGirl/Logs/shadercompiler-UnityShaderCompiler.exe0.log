@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:35f07c2248278971b129a53de0ad980434ac60082a1bbb5528e17b5c69ea3083
-size 137
+Base path: 'D:/Unity/2020.3.1f1/Editor/Data', plugins path 'D:/Unity/2020.3.1f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: shutdown
