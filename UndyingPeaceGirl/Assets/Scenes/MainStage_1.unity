@@ -472,6 +472,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ff1dfa8b490f9c49884ddb72e5fd3c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
 --- !u!114 &88731316
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23883,7 +23884,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1484859202}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 427.195, y: -10.9, z: 0}
+  m_LocalPosition: {x: 428.12, y: -10.9, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1275916983}
@@ -25166,6 +25167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ff1dfa8b490f9c49884ddb72e5fd3c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
 --- !u!114 &1645850673
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28918,6 +28920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ff1dfa8b490f9c49884ddb72e5fd3c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
 --- !u!114 &2073287799
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30084,6 +30087,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ff1dfa8b490f9c49884ddb72e5fd3c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
 --- !u!1001 &2839541847837441856
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30415,6 +30419,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ff1dfa8b490f9c49884ddb72e5fd3c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
 --- !u!114 &5447108500259773180
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30427,6 +30432,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ff1dfa8b490f9c49884ddb72e5fd3c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
 --- !u!114 &5654881836362117104
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30439,6 +30445,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ff1dfa8b490f9c49884ddb72e5fd3c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
 --- !u!114 &5676816227642023848
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30477,6 +30484,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ff1dfa8b490f9c49884ddb72e5fd3c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  state: 0
 --- !u!1001 &7733326403892233258
 PrefabInstance:
   m_ObjectHideFlags: 0

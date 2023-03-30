@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 881, y: 342}
   m_MaxSize: {x: 16006, y: 8042}
   vertical: 0
-  controlID: 27
+  controlID: 65
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -253,7 +253,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 342}
   m_MaxSize: {x: 12005, y: 8042}
   vertical: 1
-  controlID: 28
+  controlID: 18
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -279,7 +279,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 29
+  controlID: 19
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -475,7 +475,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 9e590000
     m_LastClickedID: 22942
-    m_ExpandedIDs: 000000002a4e00002c4e00002e4e0000304e0000544e0000905d0000
+    m_ExpandedIDs: 000000002a4e00002c4e00002e4e0000304e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -534,18 +534,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c62300000e4c0000cc5800004e54000012540000145400009a54000094540000985400009654000092540000ec4c0000000000001647000026460000ac500000124b00004e500000fe4e00000c40feff925d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: SampleScene
-      m_OriginalName: SampleScene
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 20084
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 6}
     m_CreateAssetUtility:
@@ -626,23 +626,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 1aa20000
-      m_LastClickedID: 41498
-      m_ExpandedIDs: dad2ffff08d3ffffc4d3ffffded3ffff7ad5ffff14d9ffff02dcffff9cdfffffa4e2ffff06e6ffff30e6ffff48e6fffff6e6ffff68e8ffff76ebffff24f0ffff82f0ffff4afbffff044100007e410000b2430000ea44000042690000349e0000e2a000001aa20000
+      m_SelectedIDs: b2430000
+      m_LastClickedID: 17330
+      m_ExpandedIDs: 4afbffff04410000ea440000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: PLAYER Spineboy
-        m_OriginalName: PLAYER Spineboy
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 26946
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -740,7 +740,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.06445458, y: -0.005988511, z: 0.000383828, w: 0.9979101}
     speed: 2
-    m_Value: {x: 0.0644541, y: -0.0059884666, z: 0.0003838252, w: 0.9979027}
+    m_Value: {x: -0.06445458, y: 0.005988511, z: -0.000383828, w: -0.9979101}
   m_Size:
     m_Target: 11.960607
     speed: 2
