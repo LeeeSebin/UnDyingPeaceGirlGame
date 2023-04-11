@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:edc98e0e2f8b76c1196746bf15b3c6ec1b27c5ce7109f1ba93558705e918d342
-size 440
+[api-updater (non-obsolete-error-filter)] 2022-07-29 PM 5:54:23 : Starting D:/Unity/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1248.287ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 860ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2023-04-11 PM 5:25:41 : Starting D:/Unity/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1265.3176ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 971ms
+candidates check time : 27ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2023-04-11 PM 5:42:52 : Starting D:/Unity/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 114.6927ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 216ms
+candidates check time : 111ms
+console write time    : 0ms
+

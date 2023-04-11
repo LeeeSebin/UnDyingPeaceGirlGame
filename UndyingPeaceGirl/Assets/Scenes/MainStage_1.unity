@@ -26170,6 +26170,7 @@ GameObject:
   - component: {fileID: 1728812337}
   - component: {fileID: 1728812336}
   - component: {fileID: 1728812335}
+  - component: {fileID: 1728812338}
   m_Layer: 0
   m_Name: New SkeletonAnimation
   m_TagString: Untagged
@@ -26280,6 +26281,32 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &1728812338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1728812333}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 171b542638ddd934b96ce45fc62cd56e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  model: {fileID: 5447108500259773180}
+  skeletonAnimation: {fileID: 1728812336}
+  run: {fileID: 11400000, guid: ab06e2e19e8be664e8b116e6c7f61d83, type: 2}
+  idle: {fileID: 11400000, guid: 580954d4639e00a4fb3f118f34ac28f7, type: 2}
+  aim: {fileID: 0}
+  shoot: {fileID: 0}
+  jump: {fileID: 11400000, guid: 3de74e345da772f42bc1ea38c8bf1704, type: 2}
+  footstepEvent: {fileID: 0}
+  footstepPitchOffset: 0.2
+  gunsoundPitchOffset: 0.13
+  footstepSource: {fileID: 0}
+  gunSource: {fileID: 0}
+  jumpSource: {fileID: 0}
+  gunParticles: {fileID: 0}
 --- !u!1 &1758610248
 GameObject:
   m_ObjectHideFlags: 0

@@ -160,6 +160,7 @@
     <Compile Include="Assets\Script\system\MultiplePool.cs" />
     <Compile Include="Assets\Script\Platform\Door\ChainDoor.cs" />
     <Compile Include="Assets\Script\Platform\DangerPlatform\DropTrap.cs" />
+    <Compile Include="Assets\Script\SpineEvent\PlayerSpineBeginnerView.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Resources\Spine\Player1\char_0.atlas.txt" />

@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1037
   m_ShowMode: 4
-  m_Title: Console
+  m_Title: Game
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 392}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 881, y: 342}
   m_MaxSize: {x: 16006, y: 8042}
   vertical: 0
-  controlID: 65
+  controlID: 94
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -253,7 +253,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 342}
   m_MaxSize: {x: 12005, y: 8042}
   vertical: 1
-  controlID: 18
+  controlID: 95
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -279,7 +279,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 19
+  controlID: 96
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -460,22 +460,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Script/Player/Move
+    - Assets/Script/SpineEvent
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Script/Player/Move
+  - Assets/Script/SpineEvent
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\Desktop\GithubBackup\UndyingPeaceGirl\UnDyingPeaceGirlGame\UndyingPeaceGirl
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9e590000
-    m_LastClickedID: 22942
-    m_ExpandedIDs: 000000002a4e00002c4e00002e4e0000304e0000
+    scrollPos: {x: 0, y: 206}
+    m_SelectedIDs: cc4f0000
+    m_LastClickedID: 20428
+    m_ExpandedIDs: 000000002a4e00002c4e00002e4e0000304e0000a24f0000b44f0000bc4f0000e2580000ba630000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -528,8 +528,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 1aa20000
-    m_LastClickedInstanceID: 41498
+    m_SelectedInstanceIDs: 3ca90000
+    m_LastClickedInstanceID: 43324
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300000e4c0000cc5800004e54000012540000145400009a54000094540000985400009654000092540000ec4c0000000000001647000026460000ac500000124b00004e500000fe4e00000c40feff925d0000
     m_RenameOverlay:
@@ -592,7 +592,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 180
   m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0
@@ -625,24 +625,24 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: b2430000
-      m_LastClickedID: 17330
-      m_ExpandedIDs: 4afbffff04410000ea440000
+      scrollPos: {x: 0, y: 410}
+      m_SelectedIDs: 3ca90000
+      m_LastClickedID: 43324
+      m_ExpandedIDs: 10b4ffff8cb5ffff68ccffff2acdffff9ed1ffff08d2ffff8edaffffd8ddffffeadfffffcee2ffff02e3ffff4afbfffff4ffffff044100007e410000b2430000ea440000547a00006c7a0000488300008e880000088900003c8b0000748c0000b48d0000908e00003e910000769200006c93000048940000f69600002e980000d8a40000bea5000038a600006ca80000a6a90000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: VIEW Spineboy
+        m_OriginalName: VIEW Spineboy
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 31340
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -689,9 +689,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 427.71252, y: -3.0814605, z: 5.5100155}
+    m_Target: {x: 428.77533, y: 0.673337, z: 5.2714653}
     speed: 2
-    m_Value: {x: 427.71252, y: -3.0814605, z: 5.5100155}
+    m_Value: {x: 428.77533, y: 0.673337, z: 5.2714653}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -740,11 +740,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.06445458, y: -0.005988511, z: 0.000383828, w: 0.9979101}
     speed: 2
-    m_Value: {x: -0.06445458, y: 0.005988511, z: -0.000383828, w: -0.9979101}
+    m_Value: {x: 0.0644541, y: -0.0059884666, z: 0.0003838252, w: 0.9979027}
   m_Size:
-    m_Target: 11.960607
+    m_Target: 16.184586
     speed: 2
-    m_Value: 11.960607
+    m_Value: 16.184586
   m_Ortho:
     m_Target: 0
     speed: 2

@@ -521,6 +521,7 @@ public class PlayerMove : MonoBehaviour  //플레이어의 조종, 무엇을 조
                     moveObjSpriteRenderer.flipX = true;
                 else if (Horizontal == 1 || Horizontal == 0)//오른쪽
                     moveObjSpriteRenderer.flipX = false;
+                moveObject.GetComponent<PlayerAnimeMgr>().TryMoveAnime(Horizontal);
 
                 //---------------------------------이동할 방향 캐릭터 상중하단 체크로 벽비빔 방지
                 start = new Vector2(moveObject.transform.position.x, moveObject.transform.position.y + (1 * moveObject.GetComponent<BoxCollider2D>().size.y / 2));//캐릭터 현재위치
@@ -571,6 +572,8 @@ public class PlayerMove : MonoBehaviour  //플레이어의 조종, 무엇을 조
         vector.Set(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"), moveObject.transform.position.z);
         //----------------------------------------------애니메이션 관리
         moveObject.GetComponent<PlayerAnimeMgr>().RunAnimeStop();
+        moveObject.GetComponent<PlayerAnimeMgr>().StopMoveAnime();
+
         //----------------------------------------------
         moving = false;
         moveObject.GetComponent<Rigidbody2D>().velocity = new Vector2(0, moveObject.GetComponent<Rigidbody2D>().velocity.y);
