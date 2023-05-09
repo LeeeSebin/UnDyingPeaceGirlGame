@@ -1,0 +1,611 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19045.2728; Version 2009; 64bit' Language: 'ko' Physical Memory: 16318 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Desktop/GithubBackup/UndyingPeaceGirl/UnDyingPeaceGirlGame/UndyingPeaceGirl
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58769
+Successfully changed project path to: D:/Desktop/GithubBackup/UndyingPeaceGirl/UnDyingPeaceGirlGame/UndyingPeaceGirl
+D:/Desktop/GithubBackup/UndyingPeaceGirl/UnDyingPeaceGirlGame/UndyingPeaceGirl
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 61.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Desktop/GithubBackup/UndyingPeaceGirl/UnDyingPeaceGirlGame/UndyingPeaceGirl/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 SUPER (ID=0x1f06)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   31.0.15.1694
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56272
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000997 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.263 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001264 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.756 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1742 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 2179.
+Total: 2.594500 ms (FindLiveObjects: 0.196100 ms CreateObjectMapping: 0.094100 ms MarkObjects: 1.420700 ms  DeleteObjects: 0.882500 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.9 MB.
+System memory in use after: 48.8 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2179.
+Total: 2.842200 ms (FindLiveObjects: 0.206200 ms CreateObjectMapping: 0.073700 ms MarkObjects: 1.702500 ms  DeleteObjects: 0.858600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001944 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.706 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1709 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.1 MB.
+System memory in use after: 82.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2182.
+Total: 2.722100 ms (FindLiveObjects: 0.206200 ms CreateObjectMapping: 0.093900 ms MarkObjects: 1.521700 ms  DeleteObjects: 0.899400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/MainStage_1.unity
+  artifactKey: Guid(cd11e4d7070473c4898a42de255fe4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainStage_1.unity using Guid(cd11e4d7070473c4898a42de255fe4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0769ac9795dfdb04686d4b766382c4d6') in 0.043305 seconds
+  Import took 0.046023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 375.727039 seconds.
+  path: Assets/Scenes/PlayerSet.prefab
+  artifactKey: Guid(112244589a2d020488834afc87423763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PlayerSet.prefab using Guid(112244589a2d020488834afc87423763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '445805696f010dcce1b3c807ddd740d5') in 0.460184 seconds
+  Import took 0.464445 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002547 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.743 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1709 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.7 MB.
+System memory in use after: 86.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2198.
+Total: 2.509600 ms (FindLiveObjects: 0.211800 ms CreateObjectMapping: 0.064200 ms MarkObjects: 1.356000 ms  DeleteObjects: 0.876300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.657981 seconds.
+  path: Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerModel.cs
+  artifactKey: Guid(f999dde27e9711a45b0ee1b0d25217ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerModel.cs using Guid(f999dde27e9711a45b0ee1b0d25217ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57b5119df395339f147682b7a538145c') in 0.131462 seconds
+  Import took 0.134252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.496752 seconds.
+  path: Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerInput.cs
+  artifactKey: Guid(8f685123e0610c347a7b2c03c8a19535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerInput.cs using Guid(8f685123e0610c347a7b2c03c8a19535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13bb44c20c19498b14bbb5da0f98957a') in 0.006204 seconds
+  Import took 0.009131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.842141 seconds.
+  path: Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerView.cs
+  artifactKey: Guid(b59f510ae90fd1a419f19ed805e6e229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerView.cs using Guid(b59f510ae90fd1a419f19ed805e6e229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7395b0d44264857e560d11fe480afeb0') in 0.006238 seconds
+  Import took 0.008959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.251947 seconds.
+  path: Assets/Spine Examples/Scripts/Getting Started Scripts/SpineBeginnerTwo.cs
+  artifactKey: Guid(a57fe3aaf2b1f964182d90c5546754d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Scripts/Getting Started Scripts/SpineBeginnerTwo.cs using Guid(a57fe3aaf2b1f964182d90c5546754d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b07b213e47b73fab9195a123f22b8e3c') in 0.006229 seconds
+  Import took 0.009057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.577535 seconds.
+  path: Assets/Script/SpineExample
+  artifactKey: Guid(692ac729b44301d4e9e52c05786279e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/SpineExample using Guid(692ac729b44301d4e9e52c05786279e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df3558e1809498e60da24c00a61b491a') in 0.007122 seconds
+  Import took 0.010207 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001173 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.808 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1709 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 86.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2201.
+Total: 2.645400 ms (FindLiveObjects: 0.222000 ms CreateObjectMapping: 0.081800 ms MarkObjects: 1.355800 ms  DeleteObjects: 0.984700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.494529 seconds.
+  path: Assets/Spine Examples/Scripts/Getting Started Scripts
+  artifactKey: Guid(a34eef132f2b4da45aa8023dbe5934e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Scripts/Getting Started Scripts using Guid(a34eef132f2b4da45aa8023dbe5934e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55df0654fe6f07f0a11615d84c9a1a8e') in 0.009577 seconds
+  Import took 0.012283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.165242 seconds.
+  path: Assets/Script/SpineEvent/PlayerSpineBeginnerView.cs
+  artifactKey: Guid(171b542638ddd934b96ce45fc62cd56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/SpineEvent/PlayerSpineBeginnerView.cs using Guid(171b542638ddd934b96ce45fc62cd56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f67156378215536fb397ef576fc762e7') in 0.007908 seconds
+  Import took 0.012169 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001189 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.781 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1710 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 86.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2205.
+Total: 2.506500 ms (FindLiveObjects: 0.190500 ms CreateObjectMapping: 0.053500 ms MarkObjects: 1.293200 ms  DeleteObjects: 0.968300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001205 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.691 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1710 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 86.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2208.
+Total: 3.577400 ms (FindLiveObjects: 0.413000 ms CreateObjectMapping: 0.111600 ms MarkObjects: 1.756200 ms  DeleteObjects: 1.295400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.202337 seconds.
+  path: Assets/Script/SpineEvent/PlayerSpineBeginnerView.cs
+  artifactKey: Guid(171b542638ddd934b96ce45fc62cd56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/SpineEvent/PlayerSpineBeginnerView.cs using Guid(171b542638ddd934b96ce45fc62cd56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe38402e0d954dbe483204ddafeee423') in 0.003769 seconds
+  Import took 0.006328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.571608 seconds.
+  path: Assets/Scenes/MainStage_1.unity
+  artifactKey: Guid(cd11e4d7070473c4898a42de255fe4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainStage_1.unity using Guid(cd11e4d7070473c4898a42de255fe4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0001ad8ed3738386a0ddcfec42c9405e') in 0.008335 seconds
+  Import took 0.011312 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001175 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.714 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1710 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 86.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2211.
+Total: 2.705800 ms (FindLiveObjects: 0.200300 ms CreateObjectMapping: 0.083700 ms MarkObjects: 1.430400 ms  DeleteObjects: 0.990000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 210.929554 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/run.asset
+  artifactKey: Guid(cc83238c61de380499565292bef7ada4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/run.asset using Guid(cc83238c61de380499565292bef7ada4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '879ac7624278d54437c2dfff8b5e3e77') in 0.244557 seconds
+  Import took 0.249576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.211056 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/spineboy-unity/ReferenceAssets/run.asset
+  artifactKey: Guid(2d841d20c203ff24a859b8c73f9c3817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/spineboy-unity/ReferenceAssets/run.asset using Guid(2d841d20c203ff24a859b8c73f9c3817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eb767c13248192534a226caac82ef78') in 0.036428 seconds
+  Import took 0.039694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.815327 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/spineboy-unity/ReferenceAssets/run rm.asset
+  artifactKey: Guid(be90eb47d25ae1149a1ffee2bb634498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/spineboy-unity/ReferenceAssets/run rm.asset using Guid(be90eb47d25ae1149a1ffee2bb634498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a282bea8db126e1252e8dade462fcfdd') in 0.024650 seconds
+  Import took 0.027473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.463073 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/run-from fall.asset
+  artifactKey: Guid(fcca5e996ae24ba43baaaadef1fb6ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/run-from fall.asset using Guid(fcca5e996ae24ba43baaaadef1fb6ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55fed6df1297d0fb0bcfa08d4e4d212a') in 0.025693 seconds
+  Import took 0.028512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.441164 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/idle.asset
+  artifactKey: Guid(8e32f0310bb5c02488c5c002dd41e7cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/idle.asset using Guid(8e32f0310bb5c02488c5c002dd41e7cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f5fee531d3b06a8cacca8ff29dfed1') in 0.024292 seconds
+  Import took 0.027163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003120 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/idle.asset
+  artifactKey: Guid(8e32f0310bb5c02488c5c002dd41e7cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/idle.asset using Guid(8e32f0310bb5c02488c5c002dd41e7cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f5fee531d3b06a8cacca8ff29dfed1') in 0.021981 seconds
+  Import took 0.024704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.352425 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/spineboy-unity/ReferenceAssets/idle.asset
+  artifactKey: Guid(8a71ad90c9e356d4fa476a420aeb259d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/spineboy-unity/ReferenceAssets/idle.asset using Guid(8a71ad90c9e356d4fa476a420aeb259d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f7c0fdc615144e6ae3f2ddebca8fdb5') in 0.021798 seconds
+  Import took 0.024699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.420343 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/idle-from fall.asset
+  artifactKey: Guid(714e39dce7285c145bdf142c38ef9a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/idle-from fall.asset using Guid(714e39dce7285c145bdf142c38ef9a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2fbd79491480aa45ab62af42110b374') in 0.022283 seconds
+  Import took 0.025340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000857 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/idle-from fall.asset
+  artifactKey: Guid(714e39dce7285c145bdf142c38ef9a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/idle-from fall.asset using Guid(714e39dce7285c145bdf142c38ef9a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2fbd79491480aa45ab62af42110b374') in 0.021453 seconds
+  Import took 0.024252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.829931 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/spineboy-unity/ReferenceAssets/idlebag.asset
+  artifactKey: Guid(305a9a349ff5861408c923de95b10585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/spineboy-unity/ReferenceAssets/idlebag.asset using Guid(305a9a349ff5861408c923de95b10585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f15e89fecec761b64c8d237a28c6d81') in 0.037380 seconds
+  Import took 0.040295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.979804 seconds.
+  path: Assets/Resources/Sprite/Player/PlayerLeg/LegIdle.png
+  artifactKey: Guid(dda08fc59510f68419eb327697b0bca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sprite/Player/PlayerLeg/LegIdle.png using Guid(dda08fc59510f68419eb327697b0bca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd868eeecfd337b90b97d533038781328') in 0.308544 seconds
+  Import took 0.311798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.485104 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets
+  artifactKey: Guid(4d8ca989b59d9c74f9b9d98e63993b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets using Guid(4d8ca989b59d9c74f9b9d98e63993b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dedbcd4f7ec464c75181aabead11cfc') in 0.007632 seconds
+  Import took 0.010594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.416737 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/fall.asset
+  artifactKey: Guid(29c1381a00cfb2c4d996f2a02fcc4506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/fall.asset using Guid(29c1381a00cfb2c4d996f2a02fcc4506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca45a8d9965a78a81b22384dc05741b2') in 0.027951 seconds
+  Import took 0.030817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006292 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/fall.asset
+  artifactKey: Guid(29c1381a00cfb2c4d996f2a02fcc4506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/fall.asset using Guid(29c1381a00cfb2c4d996f2a02fcc4506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca45a8d9965a78a81b22384dc05741b2') in 0.024116 seconds
+  Import took 0.026807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.454312 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/New Blend Mode Materials Asset.asset
+  artifactKey: Guid(1964160ca7811a24ba9ef802ddf35299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/New Blend Mode Materials Asset.asset using Guid(1964160ca7811a24ba9ef802ddf35299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bddb74ffe76dcb097545cf5620a6a799') in 0.007717 seconds
+  Import took 0.010728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.562398 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/New SkeletonDataAsset.asset
+  artifactKey: Guid(b7f8b5cd6d0549d45a73d6df53f4c648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/New SkeletonDataAsset.asset using Guid(b7f8b5cd6d0549d45a73d6df53f4c648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a86252c2fe82aca99aceec220eebad') in 0.010483 seconds
+  Import took 0.013310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.271549 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/New Spine Atlas Asset.asset
+  artifactKey: Guid(8f2819f2058215e48bf9ec887b8bb3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/New Spine Atlas Asset.asset using Guid(8f2819f2058215e48bf9ec887b8bb3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '444bc90169a1cccdbe4d1cab4f3f880f') in 0.007232 seconds
+  Import took 0.009982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.525045 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/New Spine SpriteAtlas Asset.asset
+  artifactKey: Guid(e382862c94f83f342a9c55a54c30bb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/New Spine SpriteAtlas Asset.asset using Guid(e382862c94f83f342a9c55a54c30bb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330e598309d4616b14fa7a8314cebb78') in 0.009273 seconds
+  Import took 0.012528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.071495 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/walk.asset
+  artifactKey: Guid(096b05b71bb32cb409c1c8fd233b7ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/walk.asset using Guid(096b05b71bb32cb409c1c8fd233b7ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e12c9d545d36825ca18761e3c2657583') in 0.046546 seconds
+  Import took 0.049534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.614463 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/New Animation Reference Asset.asset
+  artifactKey: Guid(09bbf5bbd339b104984e6acd50b787c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/New Animation Reference Asset.asset using Guid(09bbf5bbd339b104984e6acd50b787c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3432cbdd36ea84af11ea6743019f3a97') in 0.007522 seconds
+  Import took 0.011154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.251920 seconds.
+  path: Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/player_run.asset
+  artifactKey: Guid(ab06e2e19e8be664e8b116e6c7f61d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine Examples/Spine Skeletons/Hero/ReferenceAssets/player_run.asset using Guid(ab06e2e19e8be664e8b116e6c7f61d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3ff0d0e5aaaab966343f5eb301e9a08') in 0.008094 seconds
+  Import took 0.011229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.754579 seconds.
+  path: Assets/Spine/Skeleton
+  artifactKey: Guid(c3add6385681eca4bb4ffce0e101b122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine/Skeleton using Guid(c3add6385681eca4bb4ffce0e101b122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aac8b5a031888ab373a4f5a4349867a') in 0.006936 seconds
+  Import took 0.009789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.281228 seconds.
+  path: Assets/Spine/Skeleton/player_run.asset
+  artifactKey: Guid(ab06e2e19e8be664e8b116e6c7f61d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spine/Skeleton/player_run.asset using Guid(ab06e2e19e8be664e8b116e6c7f61d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2958244231f7ab45e8c0ba00b3c2469c') in 0.069653 seconds
+  Import took 0.072678 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001266 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.705 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1710 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2220.
+Total: 2.586700 ms (FindLiveObjects: 0.158000 ms CreateObjectMapping: 0.053600 ms MarkObjects: 1.369600 ms  DeleteObjects: 1.004500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001217 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.775 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1710 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2223.
+Total: 2.721900 ms (FindLiveObjects: 0.247800 ms CreateObjectMapping: 0.068700 ms MarkObjects: 1.395000 ms  DeleteObjects: 1.009600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001262 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.711 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1710 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 87.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2226.
+Total: 2.555000 ms (FindLiveObjects: 0.192200 ms CreateObjectMapping: 0.061600 ms MarkObjects: 1.306000 ms  DeleteObjects: 0.993000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001209 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.726 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1710 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 87.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2229.
+Total: 2.758000 ms (FindLiveObjects: 0.172400 ms CreateObjectMapping: 0.061700 ms MarkObjects: 1.440700 ms  DeleteObjects: 1.082600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001252 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.699 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1710 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2232.
+Total: 3.500300 ms (FindLiveObjects: 0.205300 ms CreateObjectMapping: 0.070500 ms MarkObjects: 1.859000 ms  DeleteObjects: 1.363200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

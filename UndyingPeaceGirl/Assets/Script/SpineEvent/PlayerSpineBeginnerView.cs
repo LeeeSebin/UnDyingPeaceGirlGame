@@ -120,7 +120,7 @@ namespace Spine.Unity.Examples
                 }
             }
 
-            skeletonAnimation.AnimationState.SetAnimation(0, nextAnimation, true);
+            skeletonAnimation.AnimationState.SetAnimation(0, nextAnimation, true);//실질적으로 애니메이션 재생하는곳에 사용할 애니메이션 정보 보내줌
         }
 
 		void PlayFootstepSound()
