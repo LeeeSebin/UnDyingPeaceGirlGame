@@ -517,10 +517,16 @@ public class PlayerMove : MonoBehaviour  //플레이어의 조종, 무엇을 조
                 Vector2 start;
                 Vector2 end;
 
-                if (Horizontal == -1)//왼쪽 스프라이트 전환
+                if (Horizontal == -1)//왼쪽 스프라이트 전환//스파인 때문에 여기서 스케일값 변경필요
+                {
                     moveObjSpriteRenderer.flipX = true;
+                    moveObject.transform.localScale = new Vector3(-1, 1, 1);
+                }
                 else if (Horizontal == 1 || Horizontal == 0)//오른쪽
+                {
                     moveObjSpriteRenderer.flipX = false;
+                    moveObject.transform.localScale = new Vector3(1, 1, 1);
+                }
                 moveObject.GetComponent<PlayerAnimeMgr>().TryMoveAnime(Horizontal);
 
                 //---------------------------------이동할 방향 캐릭터 상중하단 체크로 벽비빔 방지

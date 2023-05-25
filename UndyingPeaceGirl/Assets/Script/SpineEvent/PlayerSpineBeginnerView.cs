@@ -41,7 +41,7 @@ namespace Spine.Unity.Examples
 		public PlayerAnimeMgr model;
 		public SkeletonAnimation skeletonAnimation;
 
-		public AnimationReferenceAsset run, idle, aim, shoot, jump;
+		public AnimationReferenceAsset run, idle, aim, shoot, jump;//원하는 스파인을 넣어서 사용
 		public EventDataReferenceAsset footstepEvent;
 
 		[Header("Audio")]
@@ -80,11 +80,11 @@ namespace Spine.Unity.Examples
             //}
 
             //Detect changes in model.state
-            var currentModelState = model.state;
+            var currentModelState = model.state;//PlayerAnimeMgr에서 Spine 상태를 가져옴.
 
-            if (previousViewState != currentModelState)
+            if (previousViewState != currentModelState)//현재 스파인이 PlayerAnimeMgr 스파인 상태와 다를경우
             {
-                PlayNewStableAnimation();
+                PlayNewStableAnimation();//스파인 변경시켜줌
             }
 
             previousViewState = currentModelState;
