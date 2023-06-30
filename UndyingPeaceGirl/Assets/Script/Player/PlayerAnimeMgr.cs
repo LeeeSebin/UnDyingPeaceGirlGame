@@ -48,6 +48,7 @@ using UnityEngine;
         {
             thisAni.SetTrigger("JumpStartTrigger");
             thisAni.SetBool("Jump", true);
+            state = PlayerSpineState.Jumping;
         }
 
         //-------------------------------------피격관련
@@ -79,12 +80,7 @@ using UnityEngine;
             thisAni.SetBool("Jump", true);
         }
 
-        public void LandingAnime()
-        {
-            thisAni.SetBool("Jump", false);
-            thisAni.SetFloat("MoveY", 0);
-        }
-
+        
         public void OnFloor()
         {
             thisAni.SetBool("FloorCheck", true);
@@ -135,6 +131,17 @@ using UnityEngine;
             {
                 state = (speed == 0) ? PlayerSpineState.Idle : PlayerSpineState.Running;
             }
+            //else if (state == PlayerSpineState.Jumping)
+            //{
+            //    state = PlayerSpineState.Jumping;
+            //}
+        }
+
+        public void LandingAnime()
+        {
+            thisAni.SetBool("Jump", false);
+            thisAni.SetFloat("MoveY", 0);
+            StopMoveAnime();
         }
 
         public void StopMoveAnime()

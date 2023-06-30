@@ -66,7 +66,9 @@ namespace Spine.Unity.Examples
 		void HandleEvent(Spine.TrackEntry trackEntry, Spine.Event e)
 		{
 			if (e.Data == footstepEvent.EventData)
+			{
 				PlayFootstepSound();
+			}
 		}
 
 		void Update()
@@ -84,7 +86,7 @@ namespace Spine.Unity.Examples
 
             if (previousViewState != currentModelState)//현재 스파인이 PlayerAnimeMgr 스파인 상태와 다를경우
             {
-                PlayNewStableAnimation();//스파인 변경시켜줌
+				PlayNewStableAnimation();//스파인 변경시켜줌
             }
 
             previousViewState = currentModelState;
@@ -98,29 +100,32 @@ namespace Spine.Unity.Examples
             //Add conditionals to not interrupt transient animations.
 
 
-            if (previousViewState == PlayerSpineState.Jumping && newModelState != PlayerSpineState.Jumping)
-            {
-                PlayFootstepSound();
-            }
+            //if (previousViewState == PlayerSpineState.Jumping && newModelState != PlayerSpineState.Jumping)
+            //{
+            //    PlayFootstepSound();
+            //}
 
-            if (newModelState == PlayerSpineState.Jumping)
+			if (newModelState == PlayerSpineState.Jumping)
             {
-                jumpSource.Play();
-                nextAnimation = jump;
-            }
+
+				nextAnimation = jump;
+				skeletonAnimation.AnimationState.SetAnimation(0, nextAnimation, false);
+			}
             else
             {
-                if (newModelState == PlayerSpineState.Running)
+
+				if (newModelState == PlayerSpineState.Running)
                 {
                     nextAnimation = run;
                 }
                 else
                 {
-                    nextAnimation = idle;
+					nextAnimation = idle;
                 }
-            }
+				skeletonAnimation.AnimationState.SetAnimation(0, nextAnimation, true);
+			}
 
-            skeletonAnimation.AnimationState.SetAnimation(0, nextAnimation, true);//실질적으로 애니메이션 재생하는곳에 사용할 애니메이션 정보 보내줌
+            //skeletonAnimation.AnimationState.SetAnimation(0, nextAnimation, true);//실질적으로 애니메이션 재생하는곳에 사용할 애니메이션 정보 보내줌
         }
 
 		void PlayFootstepSound()

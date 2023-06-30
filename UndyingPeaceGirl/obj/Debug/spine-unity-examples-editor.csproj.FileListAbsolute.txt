@@ -1,0 +1,2 @@
+D:\Desktop\GithubBackup\UndyingPeaceGirl\UnDyingPeaceGirlGame\UndyingPeaceGirl\obj\Debug\spine-unity-examples-editor.csproj.AssemblyReference.cache
+D:\Desktop\GithubBackup\UndyingPeaceGirl\UnDyingPeaceGirlGame\UndyingPeaceGirl\obj\Debug\spine-unity-examples-editor.csproj.CoreCompileInputs.cache

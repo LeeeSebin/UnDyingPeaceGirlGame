@@ -1,0 +1,2 @@
+D:\Desktop\GithubBackup\UndyingPeaceGirl\UnDyingPeaceGirlGame\UndyingPeaceGirl\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\Desktop\GithubBackup\UndyingPeaceGirl\UnDyingPeaceGirlGame\UndyingPeaceGirl\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
